@@ -1,0 +1,43 @@
+April-Angela Bala
+ICS 212 Assignment #2
+January 18, 2018
+
+    1  ls
+    2  history
+    3  mkdir ics212
+    4  ls -l
+    5  dir
+    6  cd ics212
+    7  mkdir hw02
+    8  cd hw02
+    9  vi hello.c
+   10  ls
+   11  cp hello.c helloo.c
+   12  mv helloo.c helloworld.c
+   13  ls
+   14  cat helloworld.c hello.c
+   15  more hello.c
+   16  less heloo.c
+   17  less hello.c
+   18  pwd
+   19  man less
+   20  ls
+   21  ls -l
+   22  rm helloworld.c
+   23  ls
+   24  history
+   25  cd
+   26  ls
+   27  cd ics332
+   28  ls
+   29  cd
+   30  cd ics212
+   31  cd hw2
+   32  ls
+   33  cd hw02
+   34  history > BalaApril02.txt
+   35  ls
+   36  emacs BalaApril02.txt
+   37  cat BalaApril02.txt
+   38  clear
+   39  history > BalaApril02.txt

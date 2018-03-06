@@ -1,0 +1,8 @@
+program: BalaApril04.o getdouble.o
+	gcc BalaApril04.o getdouble.o -o program -lm
+
+BalaApril04.o: BalaApril04.c getdouble.h
+	gcc -c BalaApril04.c
+
+getdouble.o: getdouble.c getdouble.h
+	gcc -c getdouble.c
