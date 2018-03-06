@@ -1,0 +1,7 @@
+Bala, April-Angela(aaibala) 9
+-0.5 recursiveCount does not use recursion, uses iteration in a for-loop instead.
+
+-0.5 Error checking
+  Additional checks only happen if the first number is larger than the second
+  Program crashes with 0 is the first number.
+  Negative numbers are not allowed
